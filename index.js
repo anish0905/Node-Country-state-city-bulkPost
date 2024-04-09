@@ -1,4 +1,4 @@
-// if i want to create base on Country India Check 78 line to All Country All state Area bulk code push
+// if i want to create base on Country India Check 78 line to All Country All state Area bulk data post on Database
 
 const { MongoClient } = require('mongodb');
 const { Country, State, City } = require('country-state-city');
